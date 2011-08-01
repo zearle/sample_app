@@ -2,6 +2,8 @@ source 'http://rubygems.org'
 
 gem 'rails', '3.0.9'
 gem 'sqlite3', '1.3.3'
+gem 'webrat'
+gem 'gravatar_image_tag'
 
 group :development do
   gem 'rspec-rails', '2.6.1'
